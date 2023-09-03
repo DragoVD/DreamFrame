@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nathan Hidalgo - Artist & Creator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            background-image: url('city1.jpg'); /* Replace with your image path */
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 200px 0;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Nathan Hidalgo - Artist & Creator</h1>
+    </div>
+    <div class="content">
+        <h2>About Me</h2>
+        <p>
+            I am a professional artist who specializes in creating breathtaking portraits. My work combines modern art with pop culture, resulting in pieces that truly stand out.
+        </p>
+        <p>
+            I embarked on this creative journey after leaving the corporate world behind. We're here to inspire ambitious creatives like you to pursue your dreams and express your true selves through your art and style.
+        </p>
+        <p>
+            Whether you're a millennial in the workforce or a retiree dreaming of your next adventure, I believe that every aspect of your life should reflect your authenticity.
+        </p>
+        <h2>Explore Unique Products</h2>
+        <p>
+            In a world filled with copycat designs, we offer you the chance to customize your life with our unique products that resonate with your individuality. Let your inspiration run wild!
+        </p>
+        <h2>Contact Me</h2>
+        <p>
+            If you have any inquiries or would like to purchase my artwork, please don't hesitate to <a href="mailto:contact@nathanhidalgo.com">contact me</a>.
+        </p>
+    </div>
+</body>
+</html>
